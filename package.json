@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "prac3",
+  "description": "",
+  "version": "1.0.0",
+  "main": "servers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(http://github.com/dlsakbo/sit725-2023-t2-prac5)"
+  },
+  "author": "",
+  "license": "ISC"
+}
